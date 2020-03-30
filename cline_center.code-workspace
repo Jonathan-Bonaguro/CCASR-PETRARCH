@@ -8,6 +8,12 @@
 		},
 		{
 			"path": "/Users/jonathanbonaguro/stanford_pipeline"
+		},
+		{
+			"path": "/Users/jonathanbonaguro/mordecai"
+		},
+		{
+			"path": "/Users/jonathanbonaguro/phoenix_pipeline"
 		}
 	],
 	"settings": {}
